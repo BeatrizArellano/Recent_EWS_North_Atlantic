@@ -11,4 +11,4 @@ The analyses can be found in these Notebooks:
   - [Correlations with SPG temperatures and other indices](Corrs_SPG_temp.ipynb)
 
 
-The Python modules (`ews`) used to assess changes in resilience, significance and robustness can be found in [this repository](https://github.com/BeatrizArellano/regimeshifts).
+The Python module (`ews`) used to assess changes in resilience, significance and robustness can be found in [this repository](https://github.com/BeatrizArellano/regimeshifts) or within the [lib](lib/ews.py) folder in this repository.
