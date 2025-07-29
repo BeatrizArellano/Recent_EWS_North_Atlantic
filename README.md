@@ -17,6 +17,6 @@ The Python module `ews`, which contains the functions used to assess changes in 
 
 #### Datasets
 
-The full compilation of bivalve records is available on [Zenodo](https://doi.org/10.5281/zenodo.16564478). Please note that this dataset includes records contributed by various researchers. When using this data, ensure proper citation of the original authors for each record. The original sources are provided in the 'Reference' and 'Original Publication' columns of the metadata file.
+The full compilation of bivalve records is available on [Zenodo](https://doi.org/10.5281/zenodo.16564478). Please note that this dataset includes records constructed by different researchers. When using this data, ensure proper citation of the original authors for each record. The original sources are provided in the 'Reference' and 'Original Publication' columns of the metadata file.
 
 The HadISST1 and EN4.2.2 datasets can be downloaded from the [Met Office Hadley Centre portal](https://www.metoffice.gov.uk/hadobs/).
